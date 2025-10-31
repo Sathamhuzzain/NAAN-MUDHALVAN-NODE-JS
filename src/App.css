@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
+
+body {
+  font-family: "Inter", sans-serif;
+}
+/* .section-container {
+  @apply max-w-screen-2xl container mx-auto xl:px-24;
+} */
+.img {
+  height: 400px;
+  width: 48vw;
+}
+/* Add this to your App.css */
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; /* Ensure it stays above other content */
+  background-color: #fff; /* Add a background color if needed */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional shadow for better visibility */
+}
+.slick-prev {
+  z-index: 1;
+  /* background-color: red !important; */
+}
+.slick-next {
+  z-index: 1;
+  /* background-color: red !important; */
+}
+
+.slick-dots li button:before {
+  color: rgb(179, 178, 178) !important;
+  font-size: 10px !important;
+  margin-top: 10px;
+}
+
+.slick-dots li.slick-active button:before {
+  color: white !important;
+  /* font-size: 12px !important; */
+}
+
+.heartStar {
+  border-radius: 0px 28px 0px 28px;
+}

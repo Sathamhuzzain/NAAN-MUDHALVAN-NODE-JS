@@ -1,0 +1,298 @@
+[
+  {
+    "_id": "1",
+    "name": "Aalu Paratha",
+    "recipe": "Nepali flatbread stuffed with spiced mashed potatoes.",
+    "image": "/images/recipes/aalu_paratha.jpg",
+    "category": "main_dish",
+    "price": 150.0
+  },
+  {
+    "_id": "2",
+    "name": "Aalu Tama",
+    "recipe": "Potato and bamboo shoot curry cooked with Nepali spices.",
+    "image": "/images/recipes/aalu_tama.jpg",
+    "category": "newari",
+    "price": 180.0
+  },
+  {
+    "_id": "3",
+    "name": "Bara",
+    "recipe": "Newari-style lentil pancake served with spicy dipping sauce.",
+    "image": "/images/recipes/bara.jpg",
+    "category": "newari",
+    "price": 120.0
+  },
+  {
+    "_id": "4",
+    "name": "C Momo",
+    "recipe": "Spicy and savory dumplings filled with minced meat.",
+    "image": "/images/recipes/c_momo.jpg",
+    "category": "momo",
+    "price": 200.0
+  },
+  {
+    "_id": "5",
+    "name": "Chatamari",
+    "recipe": "Nepali rice crepe topped with minced meat and vegetables.",
+    "image": "/images/recipes/chatamari.jpg",
+    "category": "newari",
+    "price": 150.0
+  },
+  {
+    "_id": "6",
+    "name": "Chatpate",
+    "recipe": "Spicy Nepali street snack made with chopped vegetables and spices.",
+    "image": "/images/recipes/chatpate.jpg",
+    "category": "spicy",
+    "price": 100.0
+  },
+  {
+    "_id": "7",
+    "name": "Chhoila",
+    "recipe": "Spicy grilled meat dish from the Newari cuisine of Nepal.",
+    "image": "/images/recipes/chhoila.jpg",
+    "category": "newari",
+    "price": 250.0
+  },
+  {
+    "_id": "8",
+    "name": "Dal Bhat Set",
+    "recipe": "Traditional Nepali meal of lentil soup (dal) served with rice (bhat).",
+    "image": "/images/recipes/dal_bhat_set.jpg",
+    "category": "main_dish",
+    "price": 250.0
+  },
+  {
+    "_id": "9",
+    "name": "Dhido",
+    "recipe": "Traditional Nepali food made from millet or maize flour, served with vegetables or meat.",
+    "image": "/images/recipes/dhido.jpg",
+    "category": "main_dish",
+    "price": 200.0
+  },
+  {
+    "_id": "10",
+    "name": "Fried Momo",
+    "recipe": "Deep-fried Nepali dumplings filled with minced meat or vegetables.",
+    "image": "/images/recipes/fried_momo.jpg",
+    "category": "momo",
+    "price": 180.0
+  },
+  {
+    "_id": "11",
+    "name": "Jeri",
+    "recipe": "Traditional Nepali sweet made from fried dough soaked in sugar syrup.",
+    "image": "/images/recipes/jeri.jpg",
+    "category": "sweets",
+    "price": 120.0
+  },
+  {
+    "_id": "12",
+    "name": "Jhol Momo",
+    "recipe": "Nepali steamed dumplings served in a savory soup.",
+    "image": "/images/recipes/jhol_momo.jpg",
+    "category": "momo",
+    "price": 220.0
+  },
+  {
+    "_id": "13",
+    "name": "Juju Dhau",
+    "recipe": "Traditional Nepali creamy yogurt dessert.",
+    "image": "/images/recipes/juju_dhau.jpg",
+    "category": "sweets",
+    "price": 150.0
+  },
+  {
+    "_id": "14",
+    "name": "Keema Noodles",
+    "recipe": "Spicy Nepali noodles cooked with minced meat and vegetables.",
+    "image": "/images/recipes/keema_noodles.jpg",
+    "category": "spicy",
+    "price": 180.0
+  },
+  {
+    "_id": "15",
+    "name": "Laddu",
+    "recipe": "Traditional Nepali sweet made from flour, sugar, and ghee.",
+    "image": "/images/recipes/laddu.jpg",
+    "category": "sweets",
+    "price": 100.0
+  },
+  {
+    "_id": "16",
+    "name": "Lalmohan",
+    "recipe": "Nepali sweet made from deep-fried milk solids soaked in sugar syrup.",
+    "image": "/images/recipes/lalmohan.jpg",
+    "category": "sweets",
+    "price": 120.0
+  },
+  {
+    "_id": "17",
+    "name": "Laphing",
+    "recipe": "Tibetan-inspired cold mung bean noodles served with spicy sauce.",
+    "image": "/images/recipes/laphing.jpg",
+    "category": "spicy",
+    "price": 150.0
+  },
+  {
+    "_id": "18",
+    "name": "Mithila Thali",
+    "recipe": "Traditional Nepali meal served on a metal platter with a variety of dishes.",
+    "image": "/images/recipes/mithila_thali.jpg",
+    "category": "main_dish",
+    "price": 300.0
+  },
+  {
+    "_id": "19",
+    "name": "Naan",
+    "recipe": "Flatbread baked in a clay oven, popular in Nepali cuisine.",
+    "image": "/images/recipes/naan.jpg",
+    "category": "main_dish",
+    "price": 80.0
+  },
+  {
+    "_id": "20",
+    "name": "Pani Puri",
+    "recipe": "Nepali street food consisting of crispy hollow puris filled with spicy tamarind water.",
+    "image": "/images/recipes/pani_puri.jpg",
+    "category": "spicy",
+    "price": 50.0
+  },
+  {
+    "_id": "21",
+    "name": "Platter Momo",
+    "recipe": "Assorted Nepali steamed dumplings served with dipping sauces.",
+    "image": "/images/recipes/platter_momo.jpg",
+    "category": "momo",
+    "price": 250.0
+  },
+  {
+    "_id": "22",
+    "name": "Puri Tarkari",
+    "recipe": "Fried bread served with a vegetable curry, a popular dish in Nepali cuisine.",
+    "image": "/images/recipes/puri_tarkari.jpg",
+    "category": "main_dish",
+    "price": 120.0
+  },
+  {
+    "_id": "23",
+    "name": "Rasbari",
+    "recipe": "Traditional Nepali sweet made from sweetened curd cheese.",
+    "image": "/images/recipes/rasbari.jpg",
+    "category": "sweets",
+    "price": 120.0
+  },
+  {
+    "_id": "24",
+    "name": "Roti Tarkari",
+    "recipe": "Nepali flatbread served with a vegetable curry.",
+    "image": "/images/recipes/roti_tarkari.jpg",
+    "category": "main_dish",
+    "price": 100.0
+  },
+  {
+    "_id": "25",
+    "name": "Sadheko Momo",
+    "recipe": "Spicy Nepali dumplings marinated in a tangy sauce.",
+    "image": "/images/recipes/sadheko_momo.jpg",
+    "category": "momo",
+    "price": 220.0
+  },
+  {
+    "_id": "26",
+    "name": "Samay Baji",
+    "recipe": "Traditional Newari platter of beaten rice with various accompaniments.",
+    "image": "/images/recipes/samay_baji.jpg",
+    "category": "newari",
+    "price": 180.0
+  },
+  {
+    "_id": "27",
+    "name": "Steam Momo",
+    "recipe": "Steamed Nepali dumplings filled with meat or vegetables.",
+    "image": "/images/recipes/steam_momo.jpg",
+    "category": "momo",
+    "price": 200.0
+  },
+  {
+    "_id": "28",
+    "name": "Thukpa",
+    "recipe": "Nepali noodle soup with vegetables and your choice of meat.",
+    "image": "/images/recipes/thukpa.jpg",
+    "category": "main_dish",
+    "price": 250.0
+  },
+  {
+    "_id": "29",
+    "name": "Waiwai Sadheko",
+    "recipe": "Spicy Nepali snack made with instant noodles.",
+    "image": "/images/recipes/waiwai_sadheko.jpg",
+    "category": "spicy",
+    "price": 120.0
+  },
+  {
+    "_id": "30",
+    "name": "Yomari",
+    "recipe": "Traditional Nepali sweet dumpling filled with molasses and sesame seeds.",
+    "image": "/images/recipes/yomari.jpg",
+    "category": "newari",
+    "price": 130.0
+  },
+  {
+    "_id": "31",
+    "name": "Chhoila",
+    "recipe": "Spicy grilled meat dish from the Newari cuisine of Nepal.",
+    "image": "/images/recipes/chhoila.jpg",
+    "category": "popular",
+    "price": 250.0
+  },
+  {
+    "_id": "32",
+    "name": "Dal Bhat Set",
+    "recipe": "Traditional Nepali meal of lentil soup (dal) served with rice (bhat).",
+    "image": "/images/recipes/dal_bhat_set.jpg",
+    "category": "popular",
+    "price": 250.0
+  },
+  {
+    "_id": "33",
+    "name": "Jhol Momo",
+    "recipe": "Nepali steamed dumplings served in a savory soup.",
+    "image": "/images/recipes/jhol_momo.jpg",
+    "category": "popular",
+    "price": 220.0
+  },
+  {
+    "_id": "34",
+    "name": "Keema Noodles",
+    "recipe": "Spicy Nepali noodles cooked with minced meat and vegetables.",
+    "image": "/images/recipes/keema_noodles.jpg",
+    "category": "popular",
+    "price": 180.0
+  },
+  {
+    "_id": "35",
+    "name": "Pani Puri",
+    "recipe": "Nepali street food consisting of crispy hollow puris filled with spicy tamarind water.",
+    "image": "/images/recipes/pani_puri.jpg",
+    "category": "popular",
+    "price": 50.0
+  },
+  {
+    "_id": "36",
+    "name": "Samay Baji",
+    "recipe": "Traditional Newari platter of beaten rice with various accompaniments.",
+    "image": "/images/recipes/samay_baji.jpg",
+    "category": "popular",
+    "price": 180.0
+  },
+  {
+    "_id": "37",
+    "name": "Yomari",
+    "recipe": "Traditional Nepali sweet dumpling filled with molasses and sesame seeds.",
+    "image": "/images/recipes/yomari.jpg",
+    "category": "popular",
+    "price": 130.0
+  }
+]
